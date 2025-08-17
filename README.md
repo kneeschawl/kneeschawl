@@ -50,8 +50,8 @@
 
 | Project        | Description                            | Link             |
 | -------------- | -------------------------------------- | ----------------|
-| 🚀 **Project 1**       | Add a description here               | [Repo](https://github.com/kneeschawl) |
-| 🎨 **Project 2**       | Add a description here               | [Repo](https://github.com/kneeschawl) |
+| 🚀 **IMS**       | Add a description here               | [Repo](https://github.com/kneeschawl/Inventory-Management-System) |
+| 🎨 **Medical OCR**       | Add a description here               | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR) |
 | 🧠 **Project 3**       | Add a description here               | [Repo](https://github.com/kneeschawl) |
 
 ---
