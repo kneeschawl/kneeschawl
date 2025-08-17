@@ -50,8 +50,8 @@
 
 | Project        | Description                            | Link             |
 | -------------- | -------------------------------------- | ----------------|
-| 🚀 **IMS**       | Add a description here               | [Repo](https://github.com/kneeschawl/Inventory-Management-System) |
-| 🎨 **Medical OCR**       | Add a description here               | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR) |
+| 🚀 **IMS**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Inventory-Management-System) |
+| 🎨 **Medical OCR**       | SXC 6th Sem Project              | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR) |
 | 🧠 **Project 3**       | Add a description here               | [Repo](https://github.com/kneeschawl) |
 
 ---
