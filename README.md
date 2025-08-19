@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Profile Trophy
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sumit-sah&theme=onedark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kneeschawl&theme=onedark)
 
 ---
 
