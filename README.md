@@ -14,9 +14,7 @@
 
 ## 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kneeschawl&theme=radical&row=1&column=7" alt="GitHub Profile Trophy" />
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sumit-sah&theme=onedark)
 
 ---
 
