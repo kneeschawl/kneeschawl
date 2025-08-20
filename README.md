@@ -39,7 +39,7 @@
 </p>
 
 <p align="center" style="font-size: 13px;">
-  <i>Hover over the icons to see the tech!</i>
+  <i>Click on the icons to know about the tech :)</i>
 </p>
 
 ---
