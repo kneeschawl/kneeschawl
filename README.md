@@ -90,7 +90,7 @@
 
 | Project        | Description                            | Link             |
 | -------------- | -------------------------------------- | ----------------|
-| 🚀 **IMS**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Inventory-Management-System) |
+| 🚀 **Inventory Management System**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Inventory-Management-System) |
 | 🎨 **Medical OCR**       | SXC 6th Sem Project              | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR) |
 | 🧠 **Sentiment Analysis System**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Sentiment-Analysis-System) |
 
