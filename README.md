@@ -12,12 +12,6 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kneeschawl&theme=onedark)
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
