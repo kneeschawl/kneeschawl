@@ -8,7 +8,7 @@
 
 - 🗓️ GitHub user since **March 2024**
 - 🛠️ Building projects in **Python, MySQL, C++, and JavaScript**
-- 📚 Passionate about solving real-world problems and continuous learning
+- 📚 Passionate about solving real-world problems and learning
 
 ---
 
