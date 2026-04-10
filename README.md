@@ -35,17 +35,6 @@
   <i>Click on the icons to know about the tech :)</i>
 </p>
 
----
-
-## 📊 Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kneeschawl&layout=pie&theme=radical&hide=html,css" alt="Top Languages Pie Chart" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kneeschawl&layout=compact&theme=radical&hide=html,css" alt="Top Languages Bar Chart" />
-</p>
-
----
 
 ## 📈 GitHub Stats & Visitors
 
