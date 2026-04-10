@@ -36,12 +36,7 @@
 </p>
 
 
-## 📈 GitHub Stats & Visitors
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kneeschawl&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=kneeschawl&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
-</p>
+## 📈 GitHub Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kneeschawl&label=VISITORS+COUNT&color=F7941D&style=for-the-badge" alt="Profile Visitors" />
