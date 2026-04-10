@@ -43,9 +43,12 @@
 | -------------- | -------------------------------------- | ----------------|
 | **Care Nest**       | SXC Sandbox 2.0 Project              | [Repo](https://github.com/kneeschawl/Color-Print) |
 | **Diabetes Prediction System**       | A module integrated into CareNest where a chatbot predicts diabetes based on symptoms             | [Repo](https://github.com/kneeschawl/Diabetes-Prediction-System) |
+| **Image Classification using CNN**       | Classification Model to classify cats and dogs              | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/CNN-for-Image-Classification) |
+| **Next Word Prediction using RNN**       | Prediction Model that predicts next word using RNN               | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Next-word-prediction-using-RNN) |
+| **Sentiment Analysis System**       | Analyzes Sentiment of the text provided              | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Sentiment-Analysis) |
+| **Similarity Comparision**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Similarly-Comparision) |
+| **Medical OCR**       | Reads medical bills and prescriptions using OCR and extracts information              | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR) |
 | **Inventory Management System**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Inventory-Management-System) |
-| **Medical OCR**       | SXC 6th Sem Project              | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR) |
-| **Sentiment Analysis System**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Sentiment-Analysis-System) |
 
 
 ---
