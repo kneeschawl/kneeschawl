@@ -35,6 +35,20 @@
   <i>Click on the icons to know about the tech :)</i>
 </p>
 
+---
+
+## ✨ Featured Projects
+
+| Project        | Description                            | Link             |
+| -------------- | -------------------------------------- | ----------------|
+| **Care Nest**       | SXC Sandbox 2.0 Project              | [Repo](https://github.com/kneeschawl/Color-Print) |
+| **Diabetes Prediction System**       | A module integrated into CareNest where a chatbot predicts diabetes based on symptoms             | [Repo](https://github.com/kneeschawl/Diabetes-Prediction-System) |
+| **Inventory Management System**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Inventory-Management-System) |
+| **Medical OCR**       | SXC 6th Sem Project              | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR) |
+| **Sentiment Analysis System**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Sentiment-Analysis-System) |
+
+
+---
 
 ## 📈 GitHub Visitors
 
@@ -61,20 +75,6 @@
 </p>
 -->
 
----
-
-## ✨ Featured Projects
-
-| Project        | Description                            | Link             |
-| -------------- | -------------------------------------- | ----------------|
-| **Care Nest**       | SXC Sandbox 2.0 Project              | [Repo](https://github.com/kneeschawl/Color-Print) |
-| **Diabetes Prediction System**       | A module integrated into CareNest where a chatbot predicts diabetes based on symptoms             | [Repo](https://github.com/kneeschawl/Diabetes-Prediction-System) |
-| **Inventory Management System**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Inventory-Management-System) |
-| **Medical OCR**       | SXC 6th Sem Project              | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR) |
-| **Sentiment Analysis System**       | Project of AI/ML Training Workshop               | [Repo](https://github.com/kneeschawl/Sentiment-Analysis-System) |
-
-
----
 
 ## 🌐 Connect with Me
 
