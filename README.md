@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kneeschawl&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=kneeschawl&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
+  <img src="https://streak-stats.demolab.com?user=kneeschawl&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -66,8 +66,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kneeschawl&theme=dracula&hide_border=true&area=true" alt="Modern Contribution Graph" />
 </p>
 
-<!-- Animated Contribution Snake (optional, requires setup) -->
-<!--
+<!-- Animated Contribution Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kneeschawl/kneeschawl/output/github-contribution-grid-snake-dark.svg" />
@@ -75,7 +74,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kneeschawl/kneeschawl/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
--->
 
 ---
 
