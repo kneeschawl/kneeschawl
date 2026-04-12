@@ -8,7 +8,7 @@
 
 - 🗓️ GitHub user since **March 2024**
 - 🛠️ Building projects in **Python, MySQL, C, C++, C#, HTML, CSS, JS**
-- 📚 Passionate about solving real-world problems and learning
+- 📚 Passionate about solving real-world problems and active - learning
 
 ---
 
@@ -67,8 +67,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kneeschawl&theme=dracula&hide_border=true&area=true" alt="Modern Contribution Graph" />
 </p>
 
-<!-- Animated Contribution Snake (optional, requires setup) -->
-<!--
+## Animated Contribution Snake (optional, requires setup)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kneeschawl/kneeschawl/output/github-contribution-grid-snake-dark.svg" />
@@ -76,7 +76,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kneeschawl/kneeschawl/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
--->
 
 
 ## 🌐 Connect with Me
