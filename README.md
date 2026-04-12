@@ -8,7 +8,8 @@
 
 - 🗓️ GitHub user since **March 2024**
 - 🛠️ Building projects in **Python, MySQL, C, C++, C#, HTML, CSS, JS**
-- 📚 Passionate about solving real-world problems and active - learning
+- 📚 Passionate about solving real-world problems
+- 📖 Believes in active learning
 
 ---
 
