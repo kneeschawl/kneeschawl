@@ -1,5 +1,3 @@
-# kneeschawl
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+kneeschawl!;Welcome+to+my+GitHub+space+%F0%9F%8C%8E" />
 </p>
