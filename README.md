@@ -49,7 +49,7 @@ A curated selection of active or representative projects. Browse the repos for c
 | Diabetes Prediction System | Symptom-driven diabetes prediction module (chatbot integration) | [Repo](https://github.com/kneeschawl/Diabetes-Prediction-System)
 | Care Nest | SXC Sandbox 2.0 — a modular project scaffold used in workshops | [Repo](https://github.com/kneeschawl/Color-Print)
 | Image Classification (CNN) | Binary image classifier (cats vs dogs) with training scripts | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/CNN-for-Image-Classification)
-| Next Word Prediction (RNN) | Small RNN-based language model for predictive typing experiments | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Next-word-Prediction)
+| Next Word Prediction (RNN) | Small RNN-based language model for predictive typing experiments | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Next-word-prediction-using-RNN)
 | Sentiment Analysis | Lightweight NLP pipeline for classifying text sentiment | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Sentiment-Analysis)
 | Similarity Comparison | Workshop project exploring embedding-based similarity metrics | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Similarly-Comparision)
 | Medical OCR | Extracts structured data from medical bills and prescriptions | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR)
