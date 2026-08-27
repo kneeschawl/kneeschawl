@@ -39,7 +39,7 @@ I build practical, well-tested projects that solve real problems and explore new
 
 A curated selection of active or representative projects. Browse the repos for code, notebooks, and deployment notes.
 
-| Project | What it does | Link |
+| Project Name | Short Description | Link |
 |---|---|---|
 | FACT | An e-commerce watchdog system combining a browser extension, a Python "Fiscal Engine" (MariaDB), and a Dark Pattern Detection Engine. It tracks historical price trends over time, exposes fake discounts with visual timeline charts, and analyzes high-pressure urgency text to calculate a consumer deception score. | [Repo](https://github.com/kneeschawl/FACT)
 | Agentic-MBA | Agentic-MBA is an event-driven analytics web app that extracts high-signal association rules from transaction data using an FP-Growth engine. It orchestrates a local Llama-3.1 multi-agent framework to turn complex math into retail strategy reports, mapping product data on an interactive network graph with live WebSocket updates and PDF exports. | [Repo](https://github.com/kneeschawl/Agentic-MBA)
