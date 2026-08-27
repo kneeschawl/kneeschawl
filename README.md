@@ -41,14 +41,18 @@ A curated selection of active or representative projects. Browse the repos for c
 
 | Project | What it does | Link |
 |---|---|---|
-| Care Nest | SXC Sandbox 2.0 — a modular project scaffold used in workshops | [Repo](https://github.com/kneeschawl/Color-Print)
+| FACT | An e-commerce watchdog system combining a browser extension, a Python "Fiscal Engine" (MariaDB), and a Dark Pattern Detection Engine. It tracks historical price trends over time, exposes fake discounts with visual timeline charts, and analyzes high-pressure urgency text to calculate a consumer deception score. | [Repo](https://github.com/kneeschawl/FACT)
+| Agentic-MBA | Agentic-MBA is an event-driven analytics web app that extracts high-signal association rules from transaction data using an FP-Growth engine. It orchestrates a local Llama-3.1 multi-agent framework to turn complex math into retail strategy reports, mapping product data on an interactive network graph with live WebSocket updates and PDF exports. | [Repo](https://github.com/kneeschawl/Agentic-MBA)
+| NudgePricing-AI | NudgePricing AI is an enterprise behavioral economics sandbox that emulates consumer choices across asymmetric pricing tiers. Simulating 1,000 synthetic profiles, it quantifies market share, revenue potential, and price friction, supported by a theme-adaptive Streamlit dashboard and an integrated AI business analyst. | [Repo](https://github.com/kneeschawl/NudgePricing-AI)
+| Aegis-Proxy | A high-performance, multi-layered security & telemetry guardrail proxy for LLMs featuring rate limiting, L1/L2 prompt injection detection, output scanning, and Prometheus/Grafana observability. | [Repo](https://github.com/kneeschawl/Aegis-Proxy)
+| Customer_API-Text2SQL_Agent | SXC Sandbox 2.0 — a modular project scaffold used in workshops | [Repo](https://github.com/kneeschawl/Customer_API-Text2SQL_Agent)
 | Diabetes Prediction System | Symptom-driven diabetes prediction module (chatbot integration) | [Repo](https://github.com/kneeschawl/Diabetes-Prediction)
+| Care Nest | SXC Sandbox 2.0 — a modular project scaffold used in workshops | [Repo](https://github.com/kneeschawl/Color-Print)
 | Image Classification (CNN) | Binary image classifier (cats vs dogs) with training scripts | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/CNN-for-Image-Classification)
 | Next Word Prediction (RNN) | Small RNN-based language model for predictive typing experiments | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Next-word-Prediction)
 | Sentiment Analysis | Lightweight NLP pipeline for classifying text sentiment | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Sentiment-Analysis)
 | Similarity Comparison | Workshop project exploring embedding-based similarity metrics | [Repo](https://github.com/kneeschawl/GenAI-Training-2025/tree/master/Projects/Similarly-Comparision)
 | Medical OCR | Extracts structured data from medical bills and prescriptions | [Repo](https://github.com/kneeschawl/Medical-Bills-OCR)
-| Inventory Management System | Demo application for inventory workflows used in training | [Repo](https://github.com/kneeschawl/Inventory-Management-System)
 
 ---
 
