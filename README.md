@@ -61,16 +61,9 @@ A curated selection of active or representative projects. Browse the repos for c
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kneeschawl&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
+  <!-- Switched to a simple contribution chart service that reliably renders in GitHub profile READMEs -->
+  <img src="https://ghchart.rshah.org/kneeschawl" alt="Contribution Chart" />
 </p>
-
----
-
-## 📝 How to use this repo
-
-- Explore project folders for README files with setup and run instructions.
-- For ML projects, look for `requirements.txt` or `environment.yml` and `notebooks/` for experiments.
-- If you want to reproduce results, open an issue or a discussion so I can help replicate the environment.
 
 ---
 
@@ -78,8 +71,6 @@ A curated selection of active or representative projects. Browse the repos for c
 
 <p align="center">
   <a href="https://github.com/kneeschawl"><img src="https://img.shields.io/badge/GitHub-kneeschawl-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:hello@kneeschawl.dev"><img src="https://img.shields.io/badge/Email-hello%40kneeschawl.dev-D14836?logo=gmail&style=for-the-badge" /></a>
 </p>
 
 ---
