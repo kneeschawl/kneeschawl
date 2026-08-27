@@ -58,11 +58,6 @@ A curated selection of active or representative projects. Browse the repos for c
   <img src="https://komarev.com/ghpvc/?username=kneeschawl&label=VISITORS+COUNT&color=F7941D&style=for-the-badge" alt="Profile Visitors" />
 </p>
 
-<p align="center">
-  <!-- Switched to a simple contribution chart service that reliably renders in GitHub profile READMEs -->
-  <img src="https://ghchart.rshah.org/kneeschawl" alt="Contribution Chart" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
